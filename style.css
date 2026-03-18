@@ -26,6 +26,16 @@ body{
     line-height:1.5;
 }
 
+/* Case Study pages */
+.case-study {
+    background: #700e0e; /* light red tone */
+}
+
+/* Downloads pages */
+.os-downloads {
+    background: #595a5e; /* light blue tone */
+}
+
 /* Header */
 
 header{
